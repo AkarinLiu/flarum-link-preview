@@ -16,14 +16,13 @@
     },
     "authors": [
         {
-            "name": "Ngo Quoc Dat",
-            "email": "datlechin@gmail.com",
+            "name": "AkarinLiu",
+            "email": "akarin.liu@outlook.com",
             "role": "Developer"
         }
     ],
     "support": {
-        "source": "https://github.com/datlechin/flarum-link-preview",
-        "forum": "https://discuss.flarum.org/d/30011"
+        "source": "https://github.com/AkarinLiu/flarum-link-preview",
     },
     "autoload": {
         "psr-4": {
