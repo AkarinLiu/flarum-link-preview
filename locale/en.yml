@@ -20,3 +20,8 @@ datlechin-link-preview:
 
   forum:
     site_cannot_be_reached: Unable to load preview. Please check the URL and try again.
+    request_timed_out: Request timed out. Please try again later.
+    client_error: Client error occurred. Please check the URL.
+    server_error: Server error occurred. Please try again later.
+    unknown_error: Unknown error occurred. Please try again later.
+    failed_to_create_request: Failed to create request. Please try again later.
